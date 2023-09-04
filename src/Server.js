@@ -10,7 +10,7 @@ process.on("uncaughtException", err => {
 });
 
 // Config (loads the environment variables)
-dotenv.config({ path: "Backend/Config/Config.env" });
+dotenv.config({ path: "src/Config/Config.env" });
 
 // Server is Running
 const server = app.listen(process.env.PORT, () => {

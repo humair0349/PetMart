@@ -7,7 +7,7 @@ const dotenv = require('dotenv');
 
 
 // Config (loads the environment variables)
-dotenv.config({ path: "Backend/Config/Config.env" });
+dotenv.config({ path: "src/Config/Config.env" });
 
 
 // Middlewares

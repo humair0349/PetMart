@@ -1,7 +1,5 @@
-# ONLINE CLOTHING SHOP
+# PetMart
 
 # Install Dependencies
 
 **For Backend** - `npm i`
-
-**For Frontend** - `cd frontend` ` npm i`

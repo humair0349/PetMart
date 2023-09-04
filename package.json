@@ -2,10 +2,10 @@
   "name": "PetMart",
   "version": "1.0.0",
   "description": "The purpose of this project is to develop a Web Application to facilitate common citizen. It will be like an e-shop where users can buy their required products.",
-  "main": "Backend/Server.js",
+  "main": "src/Server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node Backend/Server.js"
+    "start": "node src/Server.js"
   },
   "author": "",
   "license": "ISC",
